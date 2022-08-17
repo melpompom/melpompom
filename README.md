@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="" height="150" style="border-radius:50px;" 
-  <div>
+  
   
   ![Snake animation](https://github.com/melpompom/melpompom/blob/output/github-contribution-grid-snake.svg)
   
