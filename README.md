@@ -8,6 +8,5 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" 
   <div>
   
-<div>
 ![Snake animation](https://github.com/melissatonon/melissatonon/blob/output/github-contribution-grid-snake.svg)
-<div>
+
