@@ -7,6 +7,6 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" 
   
   
-  https://github.com/melpompom/melpompom/blob/output/github-contribution-grid-snake.svg
+ 
   
 
